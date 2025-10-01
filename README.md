@@ -13,10 +13,10 @@
 
 </div>
 
-## The Mission Description - 
+## The Mission Description:
 Developing a professional and technical solution for Reach Autism Website that includes customers feedback and our teams work activities to ensure that the website becomes a satisfactory work for our client. Which their mission states that they want to provide a support and greater reach to communties that struggles with "Autism" by through a charitable work, services and swift full community outreach and support.
 
-## The Applications that was used - 
+## The Applications that was used:
 * Figma
 * Word Document
 * StoriesOnBoard
