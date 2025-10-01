@@ -8,17 +8,17 @@
   
   | Activity | Topic |
   |-----|----------------------------------|
-  | Activity 1 | Design Stage - Low Fidelity Prototype |
+  | Activity 1 | Design Stage - The Low Fidelity Prototype |
   
 
 </div>
 
-## Mission Description -
+## The Mission Description -
 
-## Applications used - 
+## The Applications that was used - 
 
 
-Collaborators: 
+The Collaborators: 
 * Evan Arnold
 * Sophie Byers
 * Amira Corcino
