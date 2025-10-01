@@ -18,7 +18,7 @@
 ## The Applications that was used - 
 
 
-The Collaborators: 
+## The Collaborators: 
 * Evan Arnold
 * Sophie Byers
 * Amira Corcino
