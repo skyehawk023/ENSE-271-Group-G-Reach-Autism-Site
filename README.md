@@ -13,7 +13,7 @@
 
 </div>
 
-## The Mission Description -
+## The Mission Description - Developing a professional and technical solution for Reach Autism Website that includes customers feedback and our teams work in these activities to ensure that the website becomes a satisfactory work for our client.
 
 ## The Applications that was used - 
 
