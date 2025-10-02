@@ -67,7 +67,7 @@
   
   | Activity | Topic |
   |-----|----------------------------------|
-  | Activity 1 | Design Stage - The Low Fidelity Prototype |
+  | [Activity 1](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts) | Design Stage - The Low Fidelity Prototype |
   
 
 </div>
