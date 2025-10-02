@@ -18,7 +18,7 @@
   The opportunity given for the design team is a real-world application of software development working with a real business that will exist beyond the scope of this class. The team will explore, in conjunction with Reach, a modern and innovative web design that emphasizes the core of the organization's mission and values.</p>
 
   
-  more inviting and
+  To be more inviting and
     Developing a professional and technical solution for Reach Autism Website that includes customers feedback and our teams work activities to ensure that the website becomes a satisfactory work       for our client. Which their mission states that they want to provide a support and greater reach to communties that struggles with "Autism" by through a charitable work, services and swift full     community outreach and support.
   
 </div>
