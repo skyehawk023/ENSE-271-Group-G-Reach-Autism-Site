@@ -79,7 +79,7 @@
 <h3>Applications used:</h3>
 <ul>
   <li>Mural</li>
-  <li>Word</li>
+  <li>Word Document</li>
   <li>StoriesOnBoard</li>
   <li>Figma</li>
 </ul>
