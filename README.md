@@ -34,7 +34,7 @@
 
   <h3>Carryover Customer</h3>
   <p>
-  The <b>Carryover Customers</b> are donors and volunteers. We want them to be called to action - to give money or their time to Reach.
+  The <b>Carryover customer</b> are donors and volunteers. We want them to be called to action - to give money or their time to Reach.
   We want to make it clear that their help is greatly needed and greatly appreciated.
   </p>
 
