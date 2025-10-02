@@ -71,18 +71,18 @@
     <li>The team has a very limited (no) budget.</li>
     <li>The team has to follow the process outlined in the project description.</li>
     <li>The team will design the site according to the client's needs and wants (obvious, but is a constraint and important to be followed).</li>
+    <li>Scheduling. The team has limited availability to work together on the project due to other classes and commitments. The application Discord was used to coordinate meeting times.
+    It's ability to host calls allowed for group members to join remotely if they were unable to come to meetings in person.</li>
   </ul>
 
 
 </div>
-  
 
-</div>
 
 <h3>Applications used:</h3>
 <ul>
   <li>Mural</li>
-  <li>Word Document</li>
+  <li>Microsoft Word</li>
   <li>StoriesOnBoard</li>
   <li>Figma</li>
 </ul>
