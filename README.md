@@ -2,12 +2,25 @@
 <h2 align="center">ENSE 271 Group G</h2>
 
 <p align="center"> <img src="https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/blob/main/Assets/Reach-autism-modified.png" alt="Reach Autism Logo" width="200" />
+  
 
-## The Collaborators: 
-* Evan Arnold
-* Sophie Byers
-* Amira Corcino
-* Harleen Kaur
+<div align="center">
+
+| **Activity** | **Topic** |
+|--------------|----------------------------------------------|
+| [Activity 1](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts) | Design Stage – The Low Fidelity Prototype |
+
+</div>
+
+---
+
+## 👥 The Collaborators
+
+- Evan Arnold  
+- Sophie Byers  
+- Amira Corcino  
+- Harleen Kaur
+
 
 <div>
   <h2>Project Background</h2>
@@ -62,12 +75,6 @@
 
 
 </div>
-
-<div align="center">
-  
-  | Activity | Topic |
-  |-----|----------------------------------|
-  | [Activity 1](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts) | Design Stage - The Low Fidelity Prototype |
   
 
 </div>
