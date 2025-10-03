@@ -17,6 +17,7 @@ Engage the community and make it attractive for people to give their time and mo
 * Improve the donation process
 * Volunteer calls to action
 * Outreach
+* They have had issues getting interventionalists - needs to be open and inviting for them to come work with the organization
 
 #### Discoverability
 The community should be made aware of the services that Reach Autism Learning provides and should be able to easily access the resources they need quickly.
