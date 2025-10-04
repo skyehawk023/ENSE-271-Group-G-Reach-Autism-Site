@@ -1,1 +1,1 @@
-Picture of our Group Story Maps 
+Picture of our Group Story Map
