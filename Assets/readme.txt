@@ -1,1 +1,1 @@
-This is where we upload our icons or the logo website
+This is where we upload our icons, website logo, colour palette, etc.
