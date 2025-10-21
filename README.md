@@ -9,7 +9,7 @@
 | **Activity** | **Topic** |
 |--------------|----------------------------------------------|
 | [Activity 1](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts) | Design Stage – The Low Fidelity Prototype |
-| [Activity 2](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts/Prototypes] | Brainstorming - High-Fidelity and Evaluation |
+| [Activity 2](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts/Prototypes) | Brainstorming - High-Fidelity and Evaluation |
 
 </div>
 
