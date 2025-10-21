@@ -1,7 +1,7 @@
 <h1 align="center">Reach Austism Website Development Project</h1>
 <h2 align="center">ENSE 271 Group G</h2>
 
-<p align="center"> <img src="https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/blob/main/Assets/Reach-autism-modified.png" alt="Reach Autism Logo" width="200" />
+<p align="center"> <img src="https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/blob/main/Assets/Reach-autism-logo.png" alt="Reach Autism Logo" width="200" />
   
 
 <div align="center">
