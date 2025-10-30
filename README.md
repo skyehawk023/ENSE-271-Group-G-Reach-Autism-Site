@@ -87,4 +87,5 @@
   <li>Microsoft Word</li>
   <li>StoriesOnBoard</li>
   <li>Figma</li>
+  <li>WordPress</li>
 </ul>
