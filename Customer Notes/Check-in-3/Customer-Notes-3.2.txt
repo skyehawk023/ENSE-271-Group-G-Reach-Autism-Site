@@ -1,0 +1,34 @@
+On first look, what do you immediately think of the site?
+-little dark (but love mountains) change opacity of gradient
+-put darker overlay on donate in footer
+
+Is the navigation easy to understand?
+-yes
+
+Is the site nice to look at?
+-consistent font (size, style) to feel more cohesive
+-check header tags (h1, h2, etc.)
+-consistent banner
+-keep background same colour
+-make distinct sections different backgrounds
+
+Which page is the most memorable?
+-like the design of the resources page
+
+
+Would you like donations to be given directly on the website or have the page give instructions on how to donate?
+-donations directly on the website
+
+
+Other Comments:
+-change colour (too blue) - lighter tones
+-still feels corporate - more playful, warm, personal (maybe change the main blue colour, more purple, orange, red)
+-likes scroll to top button
+-full width Read More tab on Services page to remove awkward spacing
+-black overlay instead of blue, play with opacity
+-include links to sponsor websites
+-put contact in the footer
+-change volunteer bucket to get involved, with volunteer and donate subitems
+-have contact as a separate bucket
+ 
+
