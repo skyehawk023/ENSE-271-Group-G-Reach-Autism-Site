@@ -12,3 +12,7 @@ Type: Linear
 Angle: 33 degrees
 
 Opacity: 0.23
+
+#### Padding
+Top: 100px
+Bottom: 150px
