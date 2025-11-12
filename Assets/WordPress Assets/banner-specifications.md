@@ -11,7 +11,7 @@ Min Height: 80vh
 
 * Type: Linear
 
-* Angle: 33 degrees
+* Angle: 150 degrees
 
 * Opacity: 0.23
 
