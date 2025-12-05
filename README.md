@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/blob/main/Assets/Reach-autism-logo.png" alt="Reach Autism Logo" width="200" />
   
-
+[View Website](https://group-g.softsys.ca/)
 <div align="center">
 
 | **Activity** | **Topic** |
