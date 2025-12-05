@@ -3,15 +3,16 @@
 
 <p align="center"> <img src="https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/blob/main/Assets/Reach-autism-logo.png" alt="Reach Autism Logo" width="200" />
   
-[View Website](https://group-g.softsys.ca/)
+<div align="center"><a href="https://group-g.softsys.ca/">View Website</a></div>
+<br>
 <div align="center">
 
 | **Activity** | **Topic** |
 |--------------|----------------------------------------------|
 | [Activity 1](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts) | Design Stage – The Low Fidelity Prototype |
 | [Activity 2](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts/Prototypes) | Brainstorming – High-Fidelity and Evaluation |
-| [Activity 3](....)| WordPress – In Progress Customer Check-in|
-| [Activity 4](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Artifacts/WordPress%20Final%20Website) | Build & Product Delivery |
+| Activity 3| WordPress – In Progress Customer Check-in|
+| [Activity 4](https://github.com/skyehawk023/ENSE-271-Group-G-Reach-Autism-Site/tree/main/Assets) | Build & Product Delivery |
 
 </div>
 
